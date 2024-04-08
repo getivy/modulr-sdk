@@ -19,6 +19,7 @@
   "homepage": "https://github.com/getivy/modulr-sdk#readme",
   "dependencies": {
     "api": "^6.1.1",
+    "json-schema-to-ts": "^3.0.1",
     "oas": "^20.10.3",
     "typescript": "^5.1.6"
   }
