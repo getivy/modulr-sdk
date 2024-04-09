@@ -1,4 +1,4 @@
-# Swan SDK
+# Modulr SDK
 
 This is a project to host [Modulr](https://www.modulrfinance.com/) SDK.
 
